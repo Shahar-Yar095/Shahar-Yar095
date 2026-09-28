@@ -17,6 +17,8 @@
 ### 🚀 About Me
 
 - 🔭 **Active Projects**:
+  - **[NeuroDoc AI](https://github.com/Shahar-Yar095/neurodoc-ai)**: Retrieval-Augmented Generation (RAG) Document Intelligence & Vector Knowledge Engine.
+  - **[Aura // Kinetic Scroll](https://github.com/Shahar-Yar095/aura-scroll)**: Awwwards-inspired smooth kinetic scroll & 3D parallax web showcase with real-time velocity telemetry.
   - **[AeroLink Pro](https://github.com/Shahar-Yar095/AeroLink)**: Universal hardware-accelerated Android ⟷ PC data sync suite streaming at 100 MB/s.
   - **[DevPulse](https://github.com/Shahar-Yar095/devpulse)**: Real-time distributed microservice & API health telemetry observability dashboard.
   - **[TaskStream API](https://github.com/Shahar-Yar095/taskstream-api)**: High-throughput asynchronous background job scheduler with backoff retry mitigation.
@@ -66,6 +68,8 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
+| **[NeuroDoc AI](https://github.com/Shahar-Yar095/neurodoc-ai)** | Retrieval-Augmented Generation (RAG) Document Intelligence & Vector Knowledge Engine with cosine citations. | `React`, `TypeScript`, `Node.js`, `RAG`, `Vector Search` | 🧠 AI Core |
+| **[Aura // Kinetic Scroll](https://github.com/Shahar-Yar095/aura-scroll)** | Awwwards-inspired smooth kinetic scroll & 3D parallax web showcase with real-time velocity telemetry. | `JavaScript`, `CSS3`, `Vite`, `Motion Design` | ✨ Creative |
 | **[AeroLink Pro](https://github.com/Shahar-Yar095/AeroLink)** | Universal high-speed Android ⟷ PC data transfer & backup engine with hardware ADB streaming up to 100 MB/s. | `PowerShell`, `WPF / XAML`, `ADB`, `Streaming` | 🚀 Active |
 | **[DevPulse](https://github.com/Shahar-Yar095/devpulse)** | Real-time microservice & API status monitor with latency trends and incident alert telemetry. | `React`, `TypeScript`, `Node.js`, `Express`, `Vite` | 🚀 Active |
 | **[TaskStream API](https://github.com/Shahar-Yar095/taskstream-api)** | Lightweight async background task processing queue with rate limiting and retry backoff. | `Node.js`, `Express`, `ESM`, `node:test` | 📦 Open Source |
