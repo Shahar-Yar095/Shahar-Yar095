@@ -85,7 +85,7 @@
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[AeroLink Pro](https://github.com/Shahar-Yar095/aerolink)** | Universal high-speed Android ⟷ PC data transfer & backup engine with hardware ADB streaming up to 100 MB/s. | `PowerShell`, `WPF / XAML`, `ADB`, `Streaming` | 🚀 Active |
+| **[AeroLink Pro](https://github.com/Shahar-Yar095/AeroLink)** | Universal high-speed Android ⟷ PC data transfer & backup engine with hardware ADB streaming up to 100 MB/s. | `PowerShell`, `WPF / XAML`, `ADB`, `Streaming` | 🚀 Active |
 | **[DevPulse](https://github.com/Shahar-Yar095/devpulse)** | Real-time microservice & API status monitor with latency trends and incident alert telemetry. | `React`, `TypeScript`, `Node.js`, `Express`, `Vite` | 🚀 Active |
 | **[TaskStream API](https://github.com/Shahar-Yar095/taskstream-api)** | Lightweight async background task processing queue with rate limiting and retry backoff. | `Node.js`, `TypeScript`, `Redis`, `Jest` | 📦 Open Source |
 
